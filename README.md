@@ -51,6 +51,9 @@ Mobility Director는 자동차 매뉴얼을 읽고 사용자의 질문에 대해
 ## 🔨 기술 스택
 #### Development Tools (개발 도구)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge&logo=codefactor&logoColor=white" /> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<br>
+
 
 #### Collaboration Tools (협업 도구)
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/GoogleDrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
